@@ -8,4 +8,4 @@ elif 12<=age<20:
 elif 20<=age<50:
     print("You are a Youth.")
 else:
-    print("You are a sinior citizen")
+    print("You are a senior citizen")
