@@ -1,6 +1,6 @@
 # Function to calculate the square of a number
 
-def square(num):
-    return num**2
+def square(num):    #defining a square function
+    return num**2     #returns suare of number
 
-print(square(5))
+print(square(5))    #calling square function.
